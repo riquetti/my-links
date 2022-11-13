@@ -10,8 +10,8 @@ body {
 
 img {
     border-radius: 50%;
-    width: 320px;
-    height: 320px;
+    width: 280px;
+    height: 280px;
     border: 2px solid white;
     margin: 20px;   
 
@@ -56,11 +56,12 @@ a:hover{
 
 footer{
     color: white;
+    padding: 10px;
 }
 
 .container {
     background-color: #011126;
-    width: 360px;
+    width: 320px;
     text-align: center;
     margin-top: 20px;
     margin-left: auto;
