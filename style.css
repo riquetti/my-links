@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: #175973;
     font-family: sans-serif;
 }
 
@@ -67,4 +67,5 @@ footer{
     margin-left: auto;
     margin-right: auto;
     border-radius: 30px;
+    border: solid white;
 }
